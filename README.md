@@ -9,24 +9,36 @@
 -->
 
 ![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
-![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![跨专业选修课](https://img.shields.io/badge/%E8%B7%A8%E4%B8%93%E4%B8%9A%E9%80%89%E4%BF%AE%E8%AF%BE-lightskyblue)
 ![实验](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-purple)
-![文理通识](https://img.shields.io/badge/%E6%96%87%E7%90%86%E9%80%9A%E8%AF%86-orange)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![作业15%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-15%25-wheat)
+![实验15%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-15%25-wheat)
+![期末考试70%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat)
+
+## 主要教材
+- 材料力学I，第6版，孙训方、方孝淑、关来泰，高等教育出版社，2019, ISBN 978-7-04-051362-2
+
+- 材料力学II，第6版，孙训方、方孝淑、关来泰，高等教育出版社，2019, ISBN 978-7-04-051232-8
+
+- 弹性力学简明教程，第5版，徐芝纶，高等教育出版社，2018, ISBN 978-7-04-049871-4
 
 
 ## 授课教师
 
-- （教师名）
-  - 授课风格：
-  - 听课建议：
-  - ……
+由于课程内容较多，这门课会由两位老师授课。下面两位是某教学班的情况：
+
+- 彭福军
+讲授《材料力学I》第六章及之前的内容，即《简单的超静定问题》之前的内容。
+
+- 白玉超
+讲授《材料力学I》第七章及之后的内容，即《应力状态》之前的内容；并讲授《材料力学II》和《弹性力学简明教程》中教学大纲所列的内容。
 
 ## 关于考试
 
+2025 春期末考试题量很大。
+
 ## 学习建议
+
+（待补充）
