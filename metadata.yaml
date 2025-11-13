@@ -1,0 +1,7 @@
+GradeComposition:
+  - Name: "作业"
+    Percentage: 15
+  - Name: "实验"
+    Percentage: 15
+  - Name: "期末考试"
+    Percentage: 70
