@@ -69,7 +69,7 @@
 
 后面则讲述它们的组合变形，以及一些特殊的构件变形形式。
 
-> 文/[IcyDesert](https://github.com/IcyDesert)
+> 文/[IcyDesert](https://github.com/IcyDesert), 2025.9
 
 ### 作业
 
@@ -77,5 +77,5 @@
 
 由于文件较大，参考答案已上传至校内网盘。
 
-> 文/[IcyDesert](https://github.com/IcyDesert)
+> 文/[IcyDesert](https://github.com/IcyDesert), 2025.9
 
