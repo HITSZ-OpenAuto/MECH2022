@@ -1,37 +1,34 @@
 course_name = "固体力学"
-repo_type = "normal"
 course_code = "MECH2022"
-
+repo_type = "normal"
 description = "根据书本前言，材料力学教材的主要面向对象实际上是土木专业学生。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "彭福军"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 讲授：《材料力学I》第六章及之前的内容，即《简单的超静定问题》之前的内容。
 教学风格：
-
-- 临近学期中期会地毯式点一次名
-- 说话比较有激情
+临近学期中期会地毯式点一次名
+说话比较有激情
 """
 author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-09" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "白玉超"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 讲授：
-
-- 《材料力学I》第七章及之后的内容，即《应力状态》及之后的内容
-- 《材料力学II》和《弹性力学简明教程》中教学大纲所列的内容。
+《材料力学I》第七章及之后的内容，即《应力状态》及之后的内容
+《材料力学II》和《弹性力学简明教程》中教学大纲所列的内容。
 教学风格：
-
-- 不点名，课堂比较轻松
+不点名，课堂比较轻松
 """
 author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-09" }
-
 
 [[sections]]
 title = "教材"
@@ -42,7 +39,6 @@ content = """
 - **材料力学II**（孙训方、方孝淑、关来泰 / 高等教育出版社 / 第 6 版 / textbook）
 - **弹性力学简明教程**（徐芝纶 / 高等教育出版社 / 第 5 版 / textbook）
 """
-
 
 [[sections]]
 title = "关于考试"
@@ -64,7 +60,6 @@ content = """
 """
 author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-09" }
 
-
 [[sections]]
 title = "学习建议"
 
@@ -81,7 +76,6 @@ content = """
 后面则讲述它们的组合变形，以及一些特殊的构件变形形式。
 """
 author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-09" }
-
 
 [[sections]]
 title = "作业说明"
