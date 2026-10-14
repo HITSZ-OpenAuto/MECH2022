@@ -1,11 +1,5 @@
 # MECH2022 - 固体力学
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业15%](https://img.shields.io/badge/作业-15%25-wheat)
-![实验15%](https://img.shields.io/badge/实验-15%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 根据书本前言，材料力学教材的主要面向对象实际上是土木专业学生。
 
